@@ -12,7 +12,7 @@
 }
 
 .thumbnail{
-	-webkit-cursor:zoom-in;
+	cursor:zoom-in;
 }
 
 .modal-body img{
